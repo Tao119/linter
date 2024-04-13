@@ -1,0 +1,68 @@
+[
+  {
+    "severity": "Error",
+    "message": "The name 'Console' does not exist in the current context",
+    "line": 11,
+    "column": 9
+  },
+  {
+    "severity": "Error",
+    "message": "The name 'Console' does not exist in the current context",
+    "line": 12,
+    "column": 9
+  },
+  {
+    "severity": "Error",
+    "message": "The name 'a' does not exist in the current context",
+    "line": 13,
+    "column": 9
+  },
+  {
+    "severity": "Warning",
+    "message": "The variable 'unusedVariable' is assigned but its value is never used",
+    "line": 10,
+    "column": 13
+  },
+  {
+    "severity": "Hidden",
+    "message": "Unnecessary using directive.",
+    "line": 2,
+    "column": 1
+  },
+  {
+    "severity": "Warning",
+    "message": "Variable 'unusedVariable' is declared but never used.",
+    "line": 10,
+    "column": 13
+  },
+  {
+    "severity": "Info",
+    "message": "Magic number detected: 42",
+    "line": 10,
+    "column": 30
+  },
+  {
+    "severity": "Info",
+    "message": "Magic number detected: 123",
+    "line": 12,
+    "column": 27
+  },
+  {
+    "severity": "Info",
+    "message": "Magic number detected: 1",
+    "line": 13,
+    "column": 13
+  },
+  {
+    "severity": "Warning",
+    "message": "Public method 'NoCommentMethod' is missing XML documentation comments.",
+    "line": 16,
+    "column": 5
+  },
+  {
+    "severity": "Warning",
+    "message": "Class name 'myProgram' should be in PascalCase.",
+    "line": 3,
+    "column": 1
+  }
+]
